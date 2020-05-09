@@ -1,4 +1,4 @@
-FROM python:3.7-apline
+FROM python:3.7-alpine
 MAINTAINER Roshan Nizar
 
 ENV PYTHONUNBUFFERED 1
